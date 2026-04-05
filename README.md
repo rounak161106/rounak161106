@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rounak 👋
 
-<!--
-**rounak161106/rounak161106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+📊 Interested in ML & Analytics  
+🚀 Building projects consistently  
 
-Here are some ideas to get you started:
+## Projects
+- House Price Prediction
+- Flask Article App
+- Portfolio Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, Pandas, NumPy
+- HTML, CSS, JavaScript
